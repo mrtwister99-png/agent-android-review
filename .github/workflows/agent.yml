@@ -1,4 +1,4 @@
-name: Loyo Reviewer
+﻿name: Loyo Reviewer
 on:
   schedule:
     - cron: '*/15 * * * *'
